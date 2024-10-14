@@ -41,9 +41,9 @@ export default function handler(
       suport: null
     },
     social: {
-      email:"myname@mail.com",
-      skype:"@myname",
-      telegram:"@myname"
+      email:"ocal@mail.com",
+      skype:"@fthnoswaldy",
+      telegram:"@fthanswaldy"
     }
   }
   res.status(200).json(response)
